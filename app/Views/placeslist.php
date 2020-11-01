@@ -1,10 +1,10 @@
 <!doctype html>
 <html>
 	<head>
-		<title>DGPT4711 Lab 04</title>
+		<title>DGPT4711 Assingnment</title>
 	</head>
 	<body>
-		<h1>List of Travel Destinations</h1>
+		<h1>Forrest Gump Character Introduction</h1>
 		{records}
 		<p><a href="/travel/showme/{id}">{name}</a></p>
 		{/records}
