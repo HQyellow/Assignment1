@@ -10,7 +10,7 @@
                 <p><strong>Sex:</strong> {sex}</p>
 		<p><strong>Country:</strong> {Country}</p>
 		<p><strong>Hobby:</strong> {Hobby}</p>
-                <p><strong>Favorite food:</strong> {chocolate}</p>
+                <p><strong>Favorite food:</strong> {Favorite food}</p>
 		<p><strong>Rank:</strong> {Rank}</p>
 		<p><strong>Life motto:</strong> {Life motto}</p>
                 <p><strong>Character photos:</strong> </p>
