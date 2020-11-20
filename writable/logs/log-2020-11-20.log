@@ -1,0 +1,200 @@
+CRITICAL - 2020-11-20 00:18:34 --> Class 'App\Models\Places' not found
+#0 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->index()
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-20 00:19:12 --> Class 'App\Models\characters' not found
+#0 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->index()
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-20 00:19:14 --> Class 'App\Models\characters' not found
+#0 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->index()
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-20 00:19:27 --> Class 'App\Models\characters' not found
+#0 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->index()
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-20 00:19:35 --> Class 'App\Models\characters' not found
+#0 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->index()
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-20 00:21:51 --> Class 'App\Models\characters' not found
+#0 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->index()
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-20 00:21:52 --> Class 'App\Models\characters' not found
+#0 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->index()
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-20 00:21:52 --> Class 'App\Models\characters' not found
+#0 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->index()
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-20 00:21:54 --> Class 'App\Models\characters' not found
+#0 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->index()
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-20 00:23:04 --> Undefined variable: characters
+#0 C:\xampp\htdocs\Assignment1\app\Controllers\Travel.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 11, Array)
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->index()
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#3 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-11-20 00:23:06 --> Undefined variable: characters
+#0 C:\xampp\htdocs\Assignment1\app\Controllers\Travel.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 11, Array)
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->index()
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#3 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-11-20 00:24:35 --> Undefined variable: characters
+#0 C:\xampp\htdocs\Assignment1\app\Controllers\Travel.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 11, Array)
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->index()
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#3 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-11-20 00:24:36 --> Undefined variable: characters
+#0 C:\xampp\htdocs\Assignment1\app\Controllers\Travel.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 11, Array)
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->index()
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#3 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-11-20 00:24:36 --> Undefined variable: characters
+#0 C:\xampp\htdocs\Assignment1\app\Controllers\Travel.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 11, Array)
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->index()
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#3 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-11-20 00:24:55 --> Undefined variable: characters
+#0 C:\xampp\htdocs\Assignment1\app\Controllers\Travel.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 11, Array)
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->index()
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#3 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-11-20 00:49:06 --> Call to undefined method App\Models\characters::setData()
+#0 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->showme('1')
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-20 00:51:20 --> Call to undefined method App\Models\characters::setData()
+#0 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->showme('1')
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-20 00:51:29 --> Call to undefined method App\Models\characters::setData()
+#0 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->showme('1')
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-20 00:52:50 --> Class 'App\Models\Places' not found
+#0 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->showme('1')
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-20 00:52:52 --> Class 'App\Models\Places' not found
+#0 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->showme('1')
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-20 00:53:02 --> Class 'App\Models\Places' not found
+#0 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->index()
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-20 00:54:05 --> Class 'App\Models\Places' not found
+#0 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->index()
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-20 00:55:32 --> Class 'App\Models\Places' not found
+#0 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->index()
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-20 00:55:33 --> Class 'App\Models\Places' not found
+#0 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->index()
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-20 00:55:33 --> Class 'App\Models\Places' not found
+#0 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->index()
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-20 00:59:27 --> Class 'App\Models\Places' not found
+#0 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->index()
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-20 01:00:19 --> Class 'App\Models\Places' not found
+#0 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->index()
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-20 01:06:20 --> Class 'App\Models\character' not found
+#0 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->index()
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-20 01:06:53 --> Class 'App\Models\character' not found
+#0 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->index()
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-20 01:06:54 --> Class 'App\Models\character' not found
+#0 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->index()
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-20 01:07:04 --> Class 'App\Models\character' not found
+#0 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->index()
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-20 01:29:48 --> Invalid file: {0}
+#0 C:\xampp\htdocs\Assignment1\system\View\Parser.php(157): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('')
+#1 C:\xampp\htdocs\Assignment1\app\Controllers\Travel.php(17): CodeIgniter\View\Parser->render('placeslist.php')
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\Travel->index()
+#3 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Travel))
+#4 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}

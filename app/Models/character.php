@@ -6,7 +6,7 @@ namespace App\Models;
  * Note that we don't have to extend CodeIgniter's model for now
  */
 
-class Places {
+class character {
 
     //mock data : an array of records
     protected $data = [

@@ -1,12 +1,12 @@
 <?php
  namespace App\Controllers;
- class Travel extends BaseController
+ class movie extends BaseController
  {
  public function index()
  {
      
      // connect to the model
- $places = new \App\Models\Places();
+ $places = new \App\Models\character();
  // retrieve all the records
  $records = $places->findAll();
  // get a template parser
@@ -14,14 +14,14 @@
  // tell it about the substitions
  return $parser->setData(['records' => $records])
  // and have it render the template with those
- ->render('placeslist');
+ ->render('characterlist');
 
  
  }
  public function showme($id)
  {
      // connect to the model
- $places = new \App\Models\Places();
+ $places = new \App\Models\character();
  // retrieve all the records
  $record = $places->find($id);
  // get a template parser

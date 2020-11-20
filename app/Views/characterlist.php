@@ -6,7 +6,7 @@
 	<body>
 		<h1>Forrest Gump Character Introduction</h1>
 		{records}
-		<p><a href="/travel/showme/{id}">{name}</a></p>
+		<p><a href="/movie/showme/{id}">{name}</a></p>
 		{/records}
 		<p><a href="/home">Home</a></p>
 	</body>
