@@ -1,7 +1,7 @@
-id,name,sex,Country,Hobby,Favorite food,Rank,Life motto,image
-1,Forrest Gump,man,United States,running pingpong,chocolate,Soldier,Life is like a box of chocolates the results are often unexpected,1.jpg
-2,Jenny Cullen,girl,United States,singing,cake,civilian,Everyone is equal before human rights,2.jpg
-3,Deng Taylor,man,United States,smokes,hamburger,Captain,The greatest glory of a soldier is to die on the battlefield,3.jpg
-4,Mrs Gamp,girl,United States,Reading,Steak,civilian,you can do it,4.jpg
-5,Bubba,man,United States,Shrimp,lobster,Soldier,Let is buy a boat,5.jpg
-6,Little Forrest,man,United States,running、pingpong,chocolate,civilian,Life is like a box of chocolates the results are often unexpected,6.jpg
+id,name,sex,Country,Hobby,Favorite food,Rank,Life motto,Character photos,image
+1,Forrest Gump,man,United States,running pingpong,chocolate,Soldier,Life is like a box of chocolates the results are often unexpected,,1.jpg
+2,Jenny Cullen,girl,United States,singing,cake,civilian,Everyone is equal before human rights,,2.jpg
+3,Deng Taylor,man,United States,smokes,hamburger,Captain,The greatest glory of a soldier is to die on the battlefield,,3.jpg
+4,Mrs Gamp,girl,United States,Reading,Steak,civilian,you can do it,,4.jpg
+5,Bubba,man,United States,Shrimp,lobster,Soldier,Let is buy a boat,,5.jpg
+6,Little Forrest,man,United States,running、pingpong,chocolate,civilian,Life is like a box of chocolates the results are often unexpected,,6.jpg

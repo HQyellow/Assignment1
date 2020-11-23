@@ -1,0 +1,36 @@
+CRITICAL - 2020-11-22 20:38:33 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\movie->index()
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\movie))
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-22 20:39:17 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\movie->index()
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\movie))
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-22 20:39:19 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\movie->index()
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\movie))
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-22 20:39:27 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\movie->index()
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\movie))
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-22 20:39:36 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\movie->index()
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\movie))
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-22 20:39:57 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(914): App\Controllers\movie->index()
+#1 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\movie))
+#2 C:\xampp\htdocs\Assignment1\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Assignment1\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
